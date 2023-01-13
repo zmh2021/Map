@@ -35,8 +35,8 @@ public class Map_ {
 
         //7.key和value之间存在单向一对一关系，即通过指定的key总能找到对应的value
 
-        System.out.println(map.get(3));
-        System.out.println("map="+map);
+        //System.out.println(map.get(3));
+        //System.out.println("map="+map);
 
 
 
